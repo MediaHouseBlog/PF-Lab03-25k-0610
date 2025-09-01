@@ -1,6 +1,17 @@
-# PF-Lab03-25k-0610
-## I am Muhammad Siddique My Roll number is 25K-0610 ##
+# Fruit And Vegetable Store #
 
-I am keenly interested in programming thats why I took admission in FAST University because it is world wide recognized for its CS.
+Items Included In Store Are ( *IN STOCK* )
+1. Apple
+2. Mango
+3. Banana
+4. Pineapple
+5. Kiwi
 
-I have interests in creating applications, websites though i have not yet created any because I am from Intermediate Background.
+It Might include (**WILL BE RESTOCKED**)
+* Guava
+* Pomegranate
+* Berries
+* Melons
+* Lemons
+
+***All Ordered Items Are Available and Unordered Items Will Be Soon Restocked***
